@@ -1,0 +1,6 @@
+{
+  "name": "محفظة المقالات",
+  "description": "تطبيق عصري لحفظ وتصفح المقالات والنصوص بخمس لغات مختلفة مع دعم كامل للغة العربية والإنجليزية والفرنسية والإسبانية والألمانية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
